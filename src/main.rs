@@ -1,5 +1,6 @@
 mod warehouse;
 mod utils;
+mod allocation_strategies;
 
 use eframe::egui;
 use warehouse::item::{Item, ItemQuality};
